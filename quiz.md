@@ -1,6 +1,6 @@
 **_Please answer the below questions. A little Google or Stackoverflow to check things is fine. If you're not sure on an answer just tell us what you know or how you would investigate._**
 
-Please write a query to find 50 published posts of a custom post type `book` that are in a taxonomy of`'genre` with the term `fiction` and have a meta key of `rating` with a value above 3 ordered by the numeric meta value descending. Please note your query will not neccassarily be run but will be assessed for correctness of key names and structure.
+Please write a query to find 50 published posts of a custom post type `book` that are in a taxonomy of `genre` with the term `fiction` and have a meta key of `rating` with a value above 3 ordered by the numeric meta value descending. Please note your query will not neccassarily be run but will be assessed for correctness of key names and structure.
 
 If you wanted to cache some data on the server with an optional expiration time, how might you go about this? Is there a built-in Wordpress function that could be used?
 
